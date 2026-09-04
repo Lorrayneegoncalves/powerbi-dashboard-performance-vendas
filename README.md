@@ -1,4 +1,12 @@
-# 📊 Power BI Interactive Dashboard
+# 📊 Power BI Performance de Vendas Dashboard
+
+<img width="1546" height="868" alt="1  Performance" src="https://github.com/user-attachments/assets/8c3324a7-3c16-470d-85e9-581844a2a482" />
+
+<img width="1545" height="868" alt="2  Decomposicao" src="https://github.com/user-attachments/assets/a5824509-61a0-475b-8522-d19d504a77b7" />
+
+<img width="1545" height="867" alt="3  Principais Influenciadores" src="https://github.com/user-attachments/assets/69ca4990-c90d-47ad-81d4-ec9be3b19e09" />
+
+
 
 ## 📑 Sobre o Projeto
 Relatório analítico interativo desenvolvido no Power BI com foco em usabilidade (UX/UI), análise dinâmica de dados e métricas visuais avançadas.
